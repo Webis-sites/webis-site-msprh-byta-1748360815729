@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import ServicesShowcase from '@/components/ServicesShowcase';
 import ExperienceSection from '@/components/ExperienceSection';
 import SalonAtmosphere from '@/components/SalonAtmosphere';
+import TeamSection from '@/components/TeamSection';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <ServicesShowcase />
         <ExperienceSection />
         <SalonAtmosphere />
+        <TeamSection />
       </main>
     </>
   );
