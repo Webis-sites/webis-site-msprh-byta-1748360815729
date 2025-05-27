@@ -1,0 +1,7 @@
+
+    # robots.txt for מספרה ביתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://מספרה-ביתא.com/sitemap.xml
