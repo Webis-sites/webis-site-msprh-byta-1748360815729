@@ -21,6 +21,10 @@
   --shadow-glass: 0 8px 32px rgba(56,229,183,0.2);
 
   --shadow-inner: inset 2px 2px 5px #d1d1d1, inset -2px -2px 5px #ffffff;
+
+  --shadow-soft: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-medium: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --border-radius: 0.5rem;
 }
 
     html {
