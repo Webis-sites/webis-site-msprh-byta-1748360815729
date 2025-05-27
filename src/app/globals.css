@@ -16,6 +16,9 @@
 
   --font-classic: Georgia, serif;
   --backdrop-blur: 12px;
+
+  --font-family-serif: Georgia, serif;
+  --shadow-glass: 0 8px 32px rgba(56,229,183,0.2);
 }
 
     html {
