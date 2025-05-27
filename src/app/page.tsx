@@ -7,6 +7,7 @@ import ExperienceSection from '@/components/ExperienceSection';
 import SalonAtmosphere from '@/components/SalonAtmosphere';
 import TeamSection from '@/components/TeamSection';
 import PricingSection from '@/components/PricingSection';
+import ContactForm from '@/components/ContactForm';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <SalonAtmosphere />
         <TeamSection />
         <PricingSection />
+        <ContactForm />
       </main>
     </>
   );
