@@ -6,6 +6,7 @@ import ServicesShowcase from '@/components/ServicesShowcase';
 import ExperienceSection from '@/components/ExperienceSection';
 import SalonAtmosphere from '@/components/SalonAtmosphere';
 import TeamSection from '@/components/TeamSection';
+import PricingSection from '@/components/PricingSection';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <ExperienceSection />
         <SalonAtmosphere />
         <TeamSection />
+        <PricingSection />
       </main>
     </>
   );
