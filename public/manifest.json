@@ -1,0 +1,18 @@
+{
+    "name": "מספרה ביתא",
+    "short_name": "מספרה",
+    "description": "אנחנו מספרה מוביל בתחום השירותים עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "dir": "rtl",
+    "lang": "he"
+  }
